@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="./assets/demo.gif" width="700" />
-</p>
+![Demo](https://github.com/<USERNAME>/<REPO>/blob/main/assets/demo.gif?raw=true)
